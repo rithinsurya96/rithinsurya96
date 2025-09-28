@@ -48,3 +48,19 @@ Leveraging experience across IT Services, Consulting, and Analytics, I collabora
 
 ## 💡 Personal Note 
 My passion lies in extracting the 'story' from complex datasets. Actively seeking a Data Analyst role where I can leverage my proficiency in uncovering patterns, solving problems. I'm always open to conversations about data, technology, and business insights.
+
+## 💼 Current Role Business Operations Specialist | Amazon, Hyderabad (April 2019 – Present) 
+
+✅ Evaluated processes and internal audit controls and streamlined operations to improve audit efficiency. 
+✅ Created advanced Power BI dashboards (with complex DAX) and SQL pipelines to automate analytics
+✅ Cut manual reporting time by 90% through automation and self-serve dashboards
+✅ Improved data audit quality and streamline various audit workflows.
+✅ Analyzed audit patterns and utilized advanced workflows strategies to enhance data accuracy by 40% 
+✅ Drove adoption through stakeholder training and communication
+
+## 💼 Previous Role Digital interaction advisor | [24]7.ai India (Sep 2017 – Feb 2019)
+
+✅ Analyzed customer order data to identify key trends by providing actionable business recommendations to improve digital user engagement and enhance customer conversion rates.
+✅ Built centralized reporting platforms to support strategic business planning 
+✅ Enhanced existing reporting systems (Power BI, SQL, Excel, Power Query) for reliable, actionable insights 
+✅ Reduced turnaround times by 30% and empowered business teams with data-driven solutions
