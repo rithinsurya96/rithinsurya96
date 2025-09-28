@@ -20,20 +20,31 @@ Leveraging experience across IT Services, Consulting, and Analytics, I collabora
 
 💻 GitHub: https://github.com/rithinsurya96
 
-🛠️ Core Skills
+## 🛠️ Core Skills
 
 📊 Power BI
+
 💾 SQL
+
 🧾 Excel (Advanced)
+
 🖼️ Tableau
+
 🐍💻 Python (Pandas, Numpy)
+
 🔌⚙️ Power Query (M, DAX)
+
 🔍🧠 Data Analysis
+
 📈💡 Business Intelligence
+
 🤖⏱️ Reporting Automation
+
 🔥🛠️ Problem Solving
+
 🌐🏗️ Data Modeling (Star/Snowflake)
+
 📈 Descriptive & Inferential Statiscts
 
-💡 Personal Note 
+## 💡 Personal Note 
 My passion lies in extracting the 'story' from complex datasets. Actively seeking a Data Analyst role where I can leverage my proficiency in uncovering patterns, solving problems. I'm always open to conversations about data, technology, and business insights.
